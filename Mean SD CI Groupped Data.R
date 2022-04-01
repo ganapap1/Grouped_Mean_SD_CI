@@ -83,7 +83,7 @@ ui <- fluidPage(
   box(
     width = 12,
     height = '525px',
-    title ="Mean   ::   Standard Devision   ::   Confidence Interval with Variables Grouped",
+    title ="Mean   ::   Standard Deviation   ::   Confidence Interval with Variables Grouped",
     align='center',
     column(style = "border: 4px double red;height: 500px;overflow-y: auto;",
            width = 4,
